@@ -6,5 +6,5 @@ npm-debug.log
 public/css/
 public/js/
 public/lib/
-config/credentials.js
+//config/credentials.js
 .vscode/
