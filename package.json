@@ -7,7 +7,7 @@
     "sskhandek <sskhandek@gmail.com>"
   ],
   "scripts": {
-    "start": "npm start server.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "body-parser": "^1.12.0",
