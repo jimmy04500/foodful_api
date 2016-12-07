@@ -7,7 +7,7 @@
     "sskhandek <sskhandek@gmail.com>"
   ],
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "npm start server.js"
   },
   "dependencies": {
     "body-parser": "^1.12.0",
